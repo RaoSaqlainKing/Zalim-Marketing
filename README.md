@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Zalim King</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://rishavchanda.io)
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead GIF" width="100%" style="max-width: 900px; border-radius: 10px; margin-bottom: 20px;">
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=raosaqlainking&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raosaqlainking" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=raosaqlainking&theme=algolia&row=1&column=6&no-frame=true&margin-w=15" alt="Trophies" width="90%" style="max-width: 750px; margin-bottom: 20px;">
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="100%" style="max-width: 400px; border-radius: 10px; margin-bottom: 20px;">
+</div>
 
 - 🔭 I’m currently working on **Digital Media Marketing**
 
@@ -56,8 +60,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raosaqlainking&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raosaqlainking&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" style="max-width: 400px; margin-bottom: 20px;"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raosaqlainking&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raosaqlainking&show_icons=true&locale=en" alt="GitHub Stats" width="100%" style="max-width: 400px; margin-bottom: 20px;"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raosaqlainking&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raosaqlainking&" alt="GitHub Streak" width="100%" style="max-width: 400px; margin-bottom: 20px;"/></p>
